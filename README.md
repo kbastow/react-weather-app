@@ -6,4 +6,4 @@ Created using create-react-app
 
 OpenWeatherMap API - https://openweathermap.org/
 
-GeoDB Cities API - https://rapidapi.com/wirefreethought/api/geodb-cities/# react-weather-app
+GeoDB Cities API - https://rapidapi.com/wirefreethought/api/geodb-cities/
